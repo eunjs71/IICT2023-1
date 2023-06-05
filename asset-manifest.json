@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/IICT2023-1/static/css/main.49907374.css",
-    "main.js": "/IICT2023-1/static/js/main.58738cad.js",
+    "main.css": "/IICT2023-1/static/css/main.16a11154.css",
+    "main.js": "/IICT2023-1/static/js/main.35243472.js",
     "static/media/NotoSansKR-Black.otf": "/IICT2023-1/static/media/NotoSansKR-Black.dba005b6b1bed712b472.otf",
     "static/media/NotoSansKR-Bold.otf": "/IICT2023-1/static/media/NotoSansKR-Bold.c252383c4f70753be0e7.otf",
     "static/media/NotoSansKR-Medium.otf": "/IICT2023-1/static/media/NotoSansKR-Medium.56207b5e52841342a21b.otf",
@@ -14,11 +14,11 @@
     "static/media/TsukimiRounded-Medium.ttf": "/IICT2023-1/static/media/TsukimiRounded-Medium.88ace9da707ac5756113.ttf",
     "static/media/TsukimiRounded-Light.woff": "/IICT2023-1/static/media/TsukimiRounded-Light.82eee35e7184ed8523af.woff",
     "index.html": "/IICT2023-1/index.html",
-    "main.49907374.css.map": "/IICT2023-1/static/css/main.49907374.css.map",
-    "main.58738cad.js.map": "/IICT2023-1/static/js/main.58738cad.js.map"
+    "main.16a11154.css.map": "/IICT2023-1/static/css/main.16a11154.css.map",
+    "main.35243472.js.map": "/IICT2023-1/static/js/main.35243472.js.map"
   },
   "entrypoints": [
-    "static/css/main.49907374.css",
-    "static/js/main.58738cad.js"
+    "static/css/main.16a11154.css",
+    "static/js/main.35243472.js"
   ]
 }
