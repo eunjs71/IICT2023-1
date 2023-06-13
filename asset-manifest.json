@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/IICT2023-1/static/css/main.015b7027.css",
-    "main.js": "/IICT2023-1/static/js/main.eeb12dfe.js",
+    "main.css": "/IICT2023-1/static/css/main.c1ae0c7c.css",
+    "main.js": "/IICT2023-1/static/js/main.cd2adb7f.js",
     "static/media/NotoSansKR-Black.otf": "/IICT2023-1/static/media/NotoSansKR-Black.dba005b6b1bed712b472.otf",
     "static/media/NotoSansKR-Bold.otf": "/IICT2023-1/static/media/NotoSansKR-Bold.c252383c4f70753be0e7.otf",
     "static/media/NotoSansKR-Medium.otf": "/IICT2023-1/static/media/NotoSansKR-Medium.56207b5e52841342a21b.otf",
     "static/media/NotoSansKR-Regular.otf": "/IICT2023-1/static/media/NotoSansKR-Regular.e1aa54c04a18648e6468.otf",
     "static/media/NotoSansKR-Light.otf": "/IICT2023-1/static/media/NotoSansKR-Light.636ff9b51e826a733c3d.otf",
     "static/media/NotoSansKR-Thin.otf": "/IICT2023-1/static/media/NotoSansKR-Thin.a3e74b5ef0ed5ab193f5.otf",
+    "static/media/exhibition_poster.gif": "/IICT2023-1/static/media/exhibition_poster.89a5a0bc203d7f830235.gif",
     "static/media/mesh_map_line.jpg": "/IICT2023-1/static/media/mesh_map_line.711e09c742741497c009.jpg",
     "static/media/mesh_map.jpeg": "/IICT2023-1/static/media/mesh_map.0eaacd7127a010ba7b7d.jpeg",
     "static/media/impressionistic_landscape.png": "/IICT2023-1/static/media/impressionistic_landscape.54523693a7a3abfd5f57.png",
@@ -26,11 +27,11 @@
     "static/media/fm5.jpg": "/IICT2023-1/static/media/fm5.661f1c5d83cca8e3bf84.jpg",
     "static/media/fm4.jpg": "/IICT2023-1/static/media/fm4.44ba4143f436d432f9c6.jpg",
     "index.html": "/IICT2023-1/index.html",
-    "main.015b7027.css.map": "/IICT2023-1/static/css/main.015b7027.css.map",
-    "main.eeb12dfe.js.map": "/IICT2023-1/static/js/main.eeb12dfe.js.map"
+    "main.c1ae0c7c.css.map": "/IICT2023-1/static/css/main.c1ae0c7c.css.map",
+    "main.cd2adb7f.js.map": "/IICT2023-1/static/js/main.cd2adb7f.js.map"
   },
   "entrypoints": [
-    "static/css/main.015b7027.css",
-    "static/js/main.eeb12dfe.js"
+    "static/css/main.c1ae0c7c.css",
+    "static/js/main.cd2adb7f.js"
   ]
 }
