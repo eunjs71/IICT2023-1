@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/IICT2023-1/static/css/main.c1ae0c7c.css",
-    "main.js": "/IICT2023-1/static/js/main.cd2adb7f.js",
+    "main.css": "/IICT2023-1/static/css/main.a78be54a.css",
+    "main.js": "/IICT2023-1/static/js/main.75fa39f4.js",
     "static/media/NotoSansKR-Black.otf": "/IICT2023-1/static/media/NotoSansKR-Black.dba005b6b1bed712b472.otf",
     "static/media/NotoSansKR-Bold.otf": "/IICT2023-1/static/media/NotoSansKR-Bold.c252383c4f70753be0e7.otf",
     "static/media/NotoSansKR-Medium.otf": "/IICT2023-1/static/media/NotoSansKR-Medium.56207b5e52841342a21b.otf",
@@ -27,11 +27,11 @@
     "static/media/fm5.jpg": "/IICT2023-1/static/media/fm5.661f1c5d83cca8e3bf84.jpg",
     "static/media/fm4.jpg": "/IICT2023-1/static/media/fm4.44ba4143f436d432f9c6.jpg",
     "index.html": "/IICT2023-1/index.html",
-    "main.c1ae0c7c.css.map": "/IICT2023-1/static/css/main.c1ae0c7c.css.map",
-    "main.cd2adb7f.js.map": "/IICT2023-1/static/js/main.cd2adb7f.js.map"
+    "main.a78be54a.css.map": "/IICT2023-1/static/css/main.a78be54a.css.map",
+    "main.75fa39f4.js.map": "/IICT2023-1/static/js/main.75fa39f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1ae0c7c.css",
-    "static/js/main.cd2adb7f.js"
+    "static/css/main.a78be54a.css",
+    "static/js/main.75fa39f4.js"
   ]
 }
