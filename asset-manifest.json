@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/IICT2023-1/static/css/main.a78be54a.css",
-    "main.js": "/IICT2023-1/static/js/main.75fa39f4.js",
+    "main.css": "/IICT2023-1/static/css/main.8b2115d4.css",
+    "main.js": "/IICT2023-1/static/js/main.95f66b7d.js",
     "static/media/NotoSansKR-Black.otf": "/IICT2023-1/static/media/NotoSansKR-Black.dba005b6b1bed712b472.otf",
     "static/media/NotoSansKR-Bold.otf": "/IICT2023-1/static/media/NotoSansKR-Bold.c252383c4f70753be0e7.otf",
     "static/media/NotoSansKR-Medium.otf": "/IICT2023-1/static/media/NotoSansKR-Medium.56207b5e52841342a21b.otf",
@@ -11,27 +11,42 @@
     "static/media/exhibition_poster.gif": "/IICT2023-1/static/media/exhibition_poster.89a5a0bc203d7f830235.gif",
     "static/media/mesh_map_line.jpg": "/IICT2023-1/static/media/mesh_map_line.711e09c742741497c009.jpg",
     "static/media/mesh_map.jpeg": "/IICT2023-1/static/media/mesh_map.0eaacd7127a010ba7b7d.jpeg",
+    "static/media/gd-preference.png": "/IICT2023-1/static/media/gd-preference.2699a3d101996b41fc3e.png",
     "static/media/impressionistic_landscape.png": "/IICT2023-1/static/media/impressionistic_landscape.54523693a7a3abfd5f57.png",
+    "static/media/gd-commit1.png": "/IICT2023-1/static/media/gd-commit1.53adc4ef0986e7d4eaef.png",
+    "static/media/gd-clone4.png": "/IICT2023-1/static/media/gd-clone4.6b4058fc2a6e86d8ba76.png",
+    "static/media/gd-clone3.png": "/IICT2023-1/static/media/gd-clone3.2a14a2a7da0a560b8fd4.png",
+    "static/media/gd-push2.png": "/IICT2023-1/static/media/gd-push2.2009c0e4bb581047a7c1.png",
+    "static/media/gd-clone1.png": "/IICT2023-1/static/media/gd-clone1.dd16a68c85e297d400be.png",
+    "static/media/gd-push1.png": "/IICT2023-1/static/media/gd-push1.44de1c6d22df1a01d2f9.png",
     "static/media/facemesh.jpg": "/IICT2023-1/static/media/facemesh.e63c854ddd7039a42710.jpg",
+    "static/media/gd-commit2.png": "/IICT2023-1/static/media/gd-commit2.e87c6074242452638e17.png",
     "static/media/fm6.jpg": "/IICT2023-1/static/media/fm6.83b5c6326e4d29635ed3.jpg",
     "static/media/fm7.jpg": "/IICT2023-1/static/media/fm7.8083e84807c0a851c78b.jpg",
     "static/media/fm2.jpg": "/IICT2023-1/static/media/fm2.3dc94b88b16577f82ae1.jpg",
+    "static/media/gd-clone2.png": "/IICT2023-1/static/media/gd-clone2.9c357529425fdcf6b9ad.png",
     "static/media/fm1.jpg": "/IICT2023-1/static/media/fm1.3d39c68f9a4ce5398b9d.jpg",
+    "static/media/gh-colab1.png": "/IICT2023-1/static/media/gh-colab1.545cdf099d0784d5f3cc.png",
+    "static/media/create-repo.png": "/IICT2023-1/static/media/create-repo.5d1124407f85f1d3a47f.png",
+    "static/media/gd-login.png": "/IICT2023-1/static/media/gd-login.2f0a3d77943baff9d885.png",
     "static/media/TsukimiRounded-SemiBold.ttf": "/IICT2023-1/static/media/TsukimiRounded-SemiBold.9372c13f049804982d18.ttf",
     "static/media/TsukimiRounded-Bold.ttf": "/IICT2023-1/static/media/TsukimiRounded-Bold.55b2b6a4875fb2e1d92b.ttf",
     "static/media/TsukimiRounded-Regular.ttf": "/IICT2023-1/static/media/TsukimiRounded-Regular.1ef685a2e1dbc4d7c1dd.ttf",
     "static/media/TsukimiRounded-Medium.ttf": "/IICT2023-1/static/media/TsukimiRounded-Medium.88ace9da707ac5756113.ttf",
     "static/media/landscape.jpg": "/IICT2023-1/static/media/landscape.d2c99dd96b4ffb7b7e29.jpg",
     "static/media/TsukimiRounded-Light.woff": "/IICT2023-1/static/media/TsukimiRounded-Light.82eee35e7184ed8523af.woff",
+    "static/media/gh-colab3.png": "/IICT2023-1/static/media/gh-colab3.49bf868f9d137782462b.png",
     "static/media/fm3.jpg": "/IICT2023-1/static/media/fm3.43cdcc60b108b133d6ee.jpg",
+    "static/media/gh-colab2.png": "/IICT2023-1/static/media/gh-colab2.40e69b841d18333aa030.png",
     "static/media/fm5.jpg": "/IICT2023-1/static/media/fm5.661f1c5d83cca8e3bf84.jpg",
     "static/media/fm4.jpg": "/IICT2023-1/static/media/fm4.44ba4143f436d432f9c6.jpg",
+    "static/media/repo_new.png": "/IICT2023-1/static/media/repo_new.16dad2f4ea69faa938e0.png",
     "index.html": "/IICT2023-1/index.html",
-    "main.a78be54a.css.map": "/IICT2023-1/static/css/main.a78be54a.css.map",
-    "main.75fa39f4.js.map": "/IICT2023-1/static/js/main.75fa39f4.js.map"
+    "main.8b2115d4.css.map": "/IICT2023-1/static/css/main.8b2115d4.css.map",
+    "main.95f66b7d.js.map": "/IICT2023-1/static/js/main.95f66b7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a78be54a.css",
-    "static/js/main.75fa39f4.js"
+    "static/css/main.8b2115d4.css",
+    "static/js/main.95f66b7d.js"
   ]
 }
