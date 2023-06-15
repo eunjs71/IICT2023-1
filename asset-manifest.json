@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/IICT2023-1/static/css/main.8b2115d4.css",
-    "main.js": "/IICT2023-1/static/js/main.95f66b7d.js",
+    "main.css": "/IICT2023-1/static/css/main.e1894f08.css",
+    "main.js": "/IICT2023-1/static/js/main.10221643.js",
     "static/media/NotoSansKR-Black.otf": "/IICT2023-1/static/media/NotoSansKR-Black.dba005b6b1bed712b472.otf",
     "static/media/NotoSansKR-Bold.otf": "/IICT2023-1/static/media/NotoSansKR-Bold.c252383c4f70753be0e7.otf",
     "static/media/NotoSansKR-Medium.otf": "/IICT2023-1/static/media/NotoSansKR-Medium.56207b5e52841342a21b.otf",
@@ -24,17 +24,24 @@
     "static/media/fm6.jpg": "/IICT2023-1/static/media/fm6.83b5c6326e4d29635ed3.jpg",
     "static/media/fm7.jpg": "/IICT2023-1/static/media/fm7.8083e84807c0a851c78b.jpg",
     "static/media/fm2.jpg": "/IICT2023-1/static/media/fm2.3dc94b88b16577f82ae1.jpg",
+    "static/media/ghpage1.png": "/IICT2023-1/static/media/ghpage1.52cc550616b5e61d90b0.png",
     "static/media/gd-clone2.png": "/IICT2023-1/static/media/gd-clone2.9c357529425fdcf6b9ad.png",
     "static/media/fm1.jpg": "/IICT2023-1/static/media/fm1.3d39c68f9a4ce5398b9d.jpg",
     "static/media/gh-colab1.png": "/IICT2023-1/static/media/gh-colab1.545cdf099d0784d5f3cc.png",
+    "static/media/ghpage3.png": "/IICT2023-1/static/media/ghpage3.43ee7b520c69312ebf80.png",
     "static/media/create-repo.png": "/IICT2023-1/static/media/create-repo.5d1124407f85f1d3a47f.png",
+    "static/media/readme4.png": "/IICT2023-1/static/media/readme4.559b2b94271975087475.png",
     "static/media/gd-login.png": "/IICT2023-1/static/media/gd-login.2f0a3d77943baff9d885.png",
     "static/media/TsukimiRounded-SemiBold.ttf": "/IICT2023-1/static/media/TsukimiRounded-SemiBold.9372c13f049804982d18.ttf",
     "static/media/TsukimiRounded-Bold.ttf": "/IICT2023-1/static/media/TsukimiRounded-Bold.55b2b6a4875fb2e1d92b.ttf",
     "static/media/TsukimiRounded-Regular.ttf": "/IICT2023-1/static/media/TsukimiRounded-Regular.1ef685a2e1dbc4d7c1dd.ttf",
     "static/media/TsukimiRounded-Medium.ttf": "/IICT2023-1/static/media/TsukimiRounded-Medium.88ace9da707ac5756113.ttf",
+    "static/media/readme1.png": "/IICT2023-1/static/media/readme1.7735f58533498a52fdc5.png",
+    "static/media/readme2.png": "/IICT2023-1/static/media/readme2.0397cf4b37644983b7d7.png",
     "static/media/landscape.jpg": "/IICT2023-1/static/media/landscape.d2c99dd96b4ffb7b7e29.jpg",
     "static/media/TsukimiRounded-Light.woff": "/IICT2023-1/static/media/TsukimiRounded-Light.82eee35e7184ed8523af.woff",
+    "static/media/readme3.png": "/IICT2023-1/static/media/readme3.c45cea43765755e218d8.png",
+    "static/media/ghpage2.png": "/IICT2023-1/static/media/ghpage2.17e2dcd168b3433b8a1d.png",
     "static/media/gh-colab3.png": "/IICT2023-1/static/media/gh-colab3.49bf868f9d137782462b.png",
     "static/media/fm3.jpg": "/IICT2023-1/static/media/fm3.43cdcc60b108b133d6ee.jpg",
     "static/media/gh-colab2.png": "/IICT2023-1/static/media/gh-colab2.40e69b841d18333aa030.png",
@@ -42,11 +49,11 @@
     "static/media/fm4.jpg": "/IICT2023-1/static/media/fm4.44ba4143f436d432f9c6.jpg",
     "static/media/repo_new.png": "/IICT2023-1/static/media/repo_new.16dad2f4ea69faa938e0.png",
     "index.html": "/IICT2023-1/index.html",
-    "main.8b2115d4.css.map": "/IICT2023-1/static/css/main.8b2115d4.css.map",
-    "main.95f66b7d.js.map": "/IICT2023-1/static/js/main.95f66b7d.js.map"
+    "main.e1894f08.css.map": "/IICT2023-1/static/css/main.e1894f08.css.map",
+    "main.10221643.js.map": "/IICT2023-1/static/js/main.10221643.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b2115d4.css",
-    "static/js/main.95f66b7d.js"
+    "static/css/main.e1894f08.css",
+    "static/js/main.10221643.js"
   ]
 }
