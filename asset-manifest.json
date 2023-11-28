@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/IICT2023-1/static/css/main.e1894f08.css",
-    "main.js": "/IICT2023-1/static/js/main.10221643.js",
+    "main.js": "/IICT2023-1/static/js/main.2ca9fe04.js",
     "static/media/NotoSansKR-Black.otf": "/IICT2023-1/static/media/NotoSansKR-Black.dba005b6b1bed712b472.otf",
     "static/media/NotoSansKR-Bold.otf": "/IICT2023-1/static/media/NotoSansKR-Bold.c252383c4f70753be0e7.otf",
     "static/media/NotoSansKR-Medium.otf": "/IICT2023-1/static/media/NotoSansKR-Medium.56207b5e52841342a21b.otf",
@@ -16,11 +16,16 @@
     "static/media/gd-commit1.png": "/IICT2023-1/static/media/gd-commit1.53adc4ef0986e7d4eaef.png",
     "static/media/gd-clone4.png": "/IICT2023-1/static/media/gd-clone4.6b4058fc2a6e86d8ba76.png",
     "static/media/gd-clone3.png": "/IICT2023-1/static/media/gd-clone3.2a14a2a7da0a560b8fd4.png",
+    "static/media/teamF.jpg": "/IICT2023-1/static/media/teamF.a5df46717337afcfe0ff.jpg",
     "static/media/gd-push2.png": "/IICT2023-1/static/media/gd-push2.2009c0e4bb581047a7c1.png",
+    "static/media/teamA.jpg": "/IICT2023-1/static/media/teamA.9f823d08556c80bb431f.jpg",
+    "static/media/teamC.jpg": "/IICT2023-1/static/media/teamC.af184759c4557665c243.jpg",
     "static/media/gd-clone1.png": "/IICT2023-1/static/media/gd-clone1.dd16a68c85e297d400be.png",
     "static/media/gd-push1.png": "/IICT2023-1/static/media/gd-push1.44de1c6d22df1a01d2f9.png",
     "static/media/facemesh.jpg": "/IICT2023-1/static/media/facemesh.e63c854ddd7039a42710.jpg",
     "static/media/gd-commit2.png": "/IICT2023-1/static/media/gd-commit2.e87c6074242452638e17.png",
+    "static/media/teamE.jpg": "/IICT2023-1/static/media/teamE.b8fe38cd653299a4dbf1.jpg",
+    "static/media/teamH.jpg": "/IICT2023-1/static/media/teamH.5bcdd2b8c5f9d9622bc2.jpg",
     "static/media/fm6.jpg": "/IICT2023-1/static/media/fm6.83b5c6326e4d29635ed3.jpg",
     "static/media/fm7.jpg": "/IICT2023-1/static/media/fm7.8083e84807c0a851c78b.jpg",
     "static/media/fm2.jpg": "/IICT2023-1/static/media/fm2.3dc94b88b16577f82ae1.jpg",
@@ -32,11 +37,13 @@
     "static/media/create-repo.png": "/IICT2023-1/static/media/create-repo.5d1124407f85f1d3a47f.png",
     "static/media/readme4.png": "/IICT2023-1/static/media/readme4.559b2b94271975087475.png",
     "static/media/gd-login.png": "/IICT2023-1/static/media/gd-login.2f0a3d77943baff9d885.png",
+    "static/media/teamB.jpg": "/IICT2023-1/static/media/teamB.e0922428d50b38ac51db.jpg",
     "static/media/TsukimiRounded-SemiBold.ttf": "/IICT2023-1/static/media/TsukimiRounded-SemiBold.9372c13f049804982d18.ttf",
     "static/media/TsukimiRounded-Bold.ttf": "/IICT2023-1/static/media/TsukimiRounded-Bold.55b2b6a4875fb2e1d92b.ttf",
     "static/media/TsukimiRounded-Regular.ttf": "/IICT2023-1/static/media/TsukimiRounded-Regular.1ef685a2e1dbc4d7c1dd.ttf",
     "static/media/TsukimiRounded-Medium.ttf": "/IICT2023-1/static/media/TsukimiRounded-Medium.88ace9da707ac5756113.ttf",
     "static/media/readme1.png": "/IICT2023-1/static/media/readme1.7735f58533498a52fdc5.png",
+    "static/media/teamG.jpg": "/IICT2023-1/static/media/teamG.1e16e7feeb8f956f5412.jpg",
     "static/media/readme2.png": "/IICT2023-1/static/media/readme2.0397cf4b37644983b7d7.png",
     "static/media/landscape.jpg": "/IICT2023-1/static/media/landscape.d2c99dd96b4ffb7b7e29.jpg",
     "static/media/TsukimiRounded-Light.woff": "/IICT2023-1/static/media/TsukimiRounded-Light.82eee35e7184ed8523af.woff",
@@ -48,12 +55,13 @@
     "static/media/fm5.jpg": "/IICT2023-1/static/media/fm5.661f1c5d83cca8e3bf84.jpg",
     "static/media/fm4.jpg": "/IICT2023-1/static/media/fm4.44ba4143f436d432f9c6.jpg",
     "static/media/repo_new.png": "/IICT2023-1/static/media/repo_new.16dad2f4ea69faa938e0.png",
+    "static/media/teamD.jpg": "/IICT2023-1/static/media/teamD.433fe3ade89481e6ed6f.jpg",
     "index.html": "/IICT2023-1/index.html",
     "main.e1894f08.css.map": "/IICT2023-1/static/css/main.e1894f08.css.map",
-    "main.10221643.js.map": "/IICT2023-1/static/js/main.10221643.js.map"
+    "main.2ca9fe04.js.map": "/IICT2023-1/static/js/main.2ca9fe04.js.map"
   },
   "entrypoints": [
     "static/css/main.e1894f08.css",
-    "static/js/main.10221643.js"
+    "static/js/main.2ca9fe04.js"
   ]
 }
